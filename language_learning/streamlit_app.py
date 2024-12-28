@@ -9,7 +9,7 @@ import random
 warnings.filterwarnings("ignore")
 
 # Configure API
-api_key = "AIzaSyB7mDqRWLWB9ACj2XuG5IHjWHpM6ZW8S1I"
+api_key = "Api-key"
 genai.configure(api_key=api_key)
 
 # Configure safety settings to allow educational content
