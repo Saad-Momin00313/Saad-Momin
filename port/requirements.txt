@@ -1,0 +1,14 @@
+streamlit
+yfinance
+numpy
+pandas
+python-dotenv
+google-generativeai
+requests
+plotly
+scipy
+scikit-learn
+ta  # Technical Analysis library
+textblob  # Sentiment Analysis
+beautifulsoup4  # Web Scraping
+pandas-ta  # Advanced Technical Analysis

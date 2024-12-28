@@ -1,0 +1,126 @@
+{
+    "8de1a482-508b-4701-988b-83efffc2d013": {
+        "id": "8de1a482-508b-4701-988b-83efffc2d013",
+        "symbol": "AAPL",
+        "type": "Stock",
+        "quantity": 2.0,
+        "purchase_price": 242.0,
+        "current_price": 248.1300048828125,
+        "purchase_date": "2024-12-13T02:57:08.320824",
+        "total_value": 496.260009765625,
+        "last_updated": "2024-12-15T20:20:06.628902",
+        "trend_analysis": {
+            "trend": "Bullish",
+            "confidence": 80,
+            "analysis": "**Trend:** Bullish\n\n**Confidence:** 80\n\n**Reasoning:**\n\n* **Momentum Score:** 0.80 (positive)\n* **Volatility:** 1.15% (relatively low)\n* **Recent Price Action:** Showing a gradual upward trend with higher highs and higher lows\n\nThe combination of positive momentum, low volatility, and a gradually rising price indicates a bullish trend. The confidence level is 80 based on the consistently positive momentum and the low volatility."
+        }
+    },
+    "c0b4a946-d544-40f0-899e-760c2564a0c5": {
+        "id": "c0b4a946-d544-40f0-899e-760c2564a0c5",
+        "symbol": "GOOG",
+        "name": "Alphabet Inc.",
+        "sector": "Communication Services",
+        "type": "Stock",
+        "quantity": 1.0,
+        "purchase_price": 193.63,
+        "current_price": 191.3800048828125,
+        "purchase_date": "2024-12-13T03:42:28.112788",
+        "total_value": 191.3800048828125,
+        "last_updated": "2024-12-15T20:20:11.706716",
+        "trend_analysis": {
+            "trend": "Bullish",
+            "confidence": 60,
+            "analysis": "**Trend:** Bullish\n\n**Confidence:** 80\n\n**Analysis:**\n\n* **Recent Price History:** The recent price action shows a steady upward trend, with the stock price increasing over the past five trading days.\n* **Average Return:** The average return of 0.31% is positive, indicating a bullish sentiment.\n* **Volatility:** The volatility of 1.67% is relatively low, suggesting that the stock price is relatively stable.\n* **Momentum Score:** The momentum score of 0.60 is positive, indicating that the stock has bullish momentum.\n\nOverall, the combination of positive recent price action, positive average return, low volatility, and positive momentum score suggests a bullish trend. The confidence level is assigned as 80 due to the consistency of the metrics and the overall positive trend."
+        }
+    },
+    "773740b3-0006-4279-a66b-fb680224142c": {
+        "id": "773740b3-0006-4279-a66b-fb680224142c",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "sector": "Cryptocurrency",
+        "type": "Crypto",
+        "quantity": 1.0,
+        "purchase_price": 3800.0,
+        "current_price": 3889.85,
+        "purchase_date": "2024-12-13T03:56:18.205117",
+        "total_value": 3889.85,
+        "last_updated": "2024-12-15T20:20:16.819436",
+        "trend_analysis": {
+            "trend": "Bullish",
+            "confidence": 80,
+            "analysis": "**Trend:** Bullish\n\n**Confidence:** 70\n\n**Analysis:**\n\n* **Momentum Score:** 0.80, indicating positive momentum. Recent prices have been trending higher.\n* **Volatility:** 3.31%, considered moderate. The price fluctuations are not excessive.\n* **Recent Price Action:** The recent prices show a slightly upward trend, with a few minor dips.\n\nThe combination of positive momentum, moderate volatility, and a slightly upward price trend suggests a bullish trend with a moderate level of confidence."
+        }
+    },
+    "95ea5fe9-78ec-4426-a24d-2782d9e77edf": {
+        "id": "95ea5fe9-78ec-4426-a24d-2782d9e77edf",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "sector": "Cryptocurrency",
+        "type": "Crypto",
+        "quantity": 1.0,
+        "purchase_price": 3800.0,
+        "current_price": 3889.85,
+        "purchase_date": "2024-12-13T03:59:53.391117",
+        "total_value": 3889.85,
+        "last_updated": "2024-12-15T20:20:19.943755",
+        "trend_analysis": {
+            "trend": "Bullish",
+            "confidence": 80,
+            "analysis": "**Trend Analysis:**\n\n**1. Momentum:** Momentum score of 0.80 indicates a bullish trend. Higher scores indicate stronger momentum in the upward direction.\n\n**2. Volatility:** Volatility of 3.31% is relatively low, suggesting a stable market environment.\n\n**3. Recent Price Action:** The recent price history shows a slight upward trend, with the last price being higher than the first.\n\n**Overall Trend:** Bullish due to the positive momentum score and relatively low volatility.\n\n**Confidence Level:**\n\nConsidering the positive momentum score and stable volatility, along with the recent price action, the confidence level in the bullish trend is: 75 out of 100\n\n**Conclusion:**\n\nThe trend metrics indicate a bullish trend with a moderate level of confidence. The positive momentum score and low volatility suggest that the market is likely to experience further upward movement in the short term."
+        }
+    },
+    "b0e947b8-ba02-4ec8-a911-19cfbb2e19f4": {
+        "id": "b0e947b8-ba02-4ec8-a911-19cfbb2e19f4",
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "sector": "Consumer Cyclical",
+        "type": "Stock",
+        "quantity": 4.0,
+        "purchase_price": 300.0,
+        "current_price": 436.2300109863281,
+        "purchase_date": "2024-12-13T19:06:32.660725",
+        "total_value": 1744.9200439453125,
+        "last_updated": "2024-12-15T20:20:23.938718",
+        "trend_analysis": {
+            "trend": "Bullish",
+            "confidence": 80,
+            "analysis": "**Trend:** Bullish\n\n**Confidence:** 75\n\n**Reasoning:**\n\n* **Momentum:** The momentum score of 0.80 indicates a strong uptrend.\n* **Volatility:** The volatility of 4.62% is relatively low, suggesting that the uptrend is likely to continue.\n* **Recent Price Action:** The recent price history shows a series of higher highs and higher lows, which is a classic sign of a Bullish trend.\n\nOverall, the combination of strong momentum, low volatility, and positive recent price action suggests that the asset is likely to continue its uptrend in the near term."
+        }
+    },
+    "222f0a3f-718b-4049-bfb3-2584db4dadf2": {
+        "id": "222f0a3f-718b-4049-bfb3-2584db4dadf2",
+        "symbol": "SPY",
+        "name": "SPDR S&P 500 ETF Trust",
+        "sector": "Other",
+        "type": "ETF",
+        "quantity": 10.0,
+        "purchase_price": 420.0,
+        "current_price": 604.2100219726562,
+        "purchase_date": "2024-12-13T19:23:48.780393",
+        "total_value": 6042.1002197265625,
+        "last_updated": "2024-12-15T20:20:27.450007",
+        "trend_analysis": {
+            "trend": "Bullish",
+            "confidence": 60,
+            "analysis": "**Trend: Neutral**\n\n* Recent Price History: The stock price fluctuates slightly above and below the average, indicating no clear trend.\n* Average Return: The positive average return of 0.12% suggests a slightly bullish bias.\n* Volatility: The low volatility of 0.66% indicates a relatively stable price environment.\n* Momentum Score: The momentum score of 0.20 is neutral, suggesting neither strong bullish nor bearish momentum.\n\n**Confidence: 50**\n\nGiven the mixed signals from the trend metrics, the confidence level in the trend is low. The recent price action suggests a neutral trend, while the average return provides a slightly bullish bias. The low volatility and neutral momentum score further support a neutral assessment."
+        }
+    },
+    "5bae92a0-89a9-4f09-8045-5a5de33b2dad": {
+        "id": "5bae92a0-89a9-4f09-8045-5a5de33b2dad",
+        "symbol": "TLT",
+        "name": "iShares 20+ Year Treasury Bond ETF",
+        "sector": "Other",
+        "type": "Bond",
+        "quantity": 4.0,
+        "purchase_price": 80.0,
+        "current_price": 90.1500015258789,
+        "purchase_date": "2024-12-13T19:28:37.733382",
+        "total_value": 360.6000061035156,
+        "last_updated": "2024-12-15T20:20:31.061665",
+        "trend_analysis": {
+            "trend": "Bearish",
+            "confidence": 80,
+            "analysis": "**Trend:** Bearish\n\n**Confidence:** 60%\n\n**Explanation:**\n\n* **Recent Price Action:** The recent price history shows a consistent decline, with the price making lower lows. This suggests a bearish trend.\n* **Average Return:** The average return is negative (-0.17%), further supporting the bearish trend.\n* **Volatility:** The volatility is 0.88%, which is relatively low. This indicates that the price is not fluctuating widely, but rather is steadily declining.\n* **Momentum Score:** The momentum score is 0.00, which suggests that the asset has no momentum and is not trending strongly either way. However, given the other metrics, we can assume that the asset is trending slightly bearish.\n\nOverall, the combination of these metrics indicates a bearish trend with moderate confidence."
+        }
+    }
+}
